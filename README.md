@@ -1,3 +1,7 @@
+# News
+
+This repository is being moved to a separate project: https://github.com/true-async/php-true-async-rfc
+
 # PHP TRUE ASYNC RFC
 
 This repository contains RFCs related to the **PHP TRUE ASYNC** project.
